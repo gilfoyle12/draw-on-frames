@@ -1,2 +1,3 @@
 **/node_modules
-server-side/publish/**
+server-side/build/**
+**.env
